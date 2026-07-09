@@ -92,8 +92,6 @@ echo.\
 echo Configuring for a Gaming Setup...\
 echo Installing General Utilities First...\
 \
-echo Installing Adobe Acrobat Reader...\
-winget install --id Adobe.Acrobat.Reader.64-bit --silent --accept-source-agreements --accept-package-agreements\
 \
 echo Installing 7-Zip Utility...\
 winget install --id 7zip.7zip --silent --accept-source-agreements --accept-package-agreements\
@@ -104,6 +102,7 @@ winget install --id Google.Drive --silent --accept-source-agreements --accept-pa
 echo Installing Dedicated Gaming Tools...\
 echo Installing Steam...\
 winget install --id Valve.Steam --silent --accept-source-agreements --accept-package-agreements\
+\
 echo Installing nexus Mod Manager\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 \cf0 winget install -e --id NexusMods.Vortex\
