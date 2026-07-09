@@ -1,24 +1,25 @@
 # Network Windows Software Setup Library (NWSSL)
 
-NWSSL is a lightweight, open-source automation script designed to deploy essential core applications, archive managers, and custom profiles for fresh Windows installations. 
+NWSSL Installer is a lightweight, open-source automation script designed to deploy essential core applications, archive managers, and trusted utility profiles for fresh Windows installations. 
 
-Built with regular users and gamers in mind, NWSSL bypasses the need for bloated third-party software bundles or sketchy executable hosting.
+Built strictly for regular users and gamers, NWSSL delivers a clean, zero-bloat setup environment by bypassing sketchy third-party bundles, social media junk, and unneeded background telemetry services.
 
-## Why Trust NWSSL?
+## Why Trust NWSSL Installer?
 
 * **Direct Sourcing:** NWSSL utilizes Microsoft's official, built-in Package Manager (`winget`). Every application is pulled directly from the developer's verified server.
 * **100% Transparent:** No compiled `.exe` or `.msi` files are hosted here. You can inspect every line of the Batch script right here on GitHub before running it.
-* **Driver-Free & Safe:** The library strictly installs high-trust user applications. It does not tamper with system drivers or kernel-level settings.
+* **Driver-Free & Zero Bloat:** The library strictly installs high-trust user applications. It does not tamper with system drivers or leave running background junk on your drive.
 
-## What's Included?
+##  What's Included?
 
-* **Core Infrastructure:** Google Chrome, VLC Media Player, Microsoft PowerToys
-* **Compression Library (Optional):** Choice of 7-Zip, WinRAR, or Skip
-* **Normal Profile:** Spotify
-* **Gaming Profile:** Steam, Discord, Epic Games Launcher, OBS Studio, ShareX, Spotify MSI Afterburner
+* **Core Infrastructure (Everyone Gets These):** Google Chrome, VLC Media Player, Microsoft PowerToys, Rufus
+* **Compression Library (Optional Menu):** Choice of 7-Zip, WinRAR, or Skip
+* **Normal Profile:** Adobe Acrobat Reader, 7-Zip Utility, Google Drive Desktop
+* **Gaming Profile:** All Normal Profile tools + Valve Steam, MSI Afterburner
 
-##  How to Use
+## How to Use
 
-1. Download the `setup.bat` file in this repository.
-2. Right-click the saved `setup.bat` file and select **Run as administrator**.
-3. Follow the on-screen install to customize your installation!
+1. Click on the `setup.bat` file in this repository.
+2. Click the **Download raw file** button (or copy the text).
+3. Right-click the saved `setup.bat` file and select **Run as administrator**.
+4. Follow the on-screen interactive menus to customize your installation!
