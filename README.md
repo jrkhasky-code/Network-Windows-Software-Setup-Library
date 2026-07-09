@@ -15,7 +15,7 @@ Built strictly for regular users and gamers, NWSSL delivers a clean, zero-bloat 
 * **Core Infrastructure (Everyone Gets These):** Google Chrome, VLC Media Player, Microsoft PowerToys, Rufus
 * **Compression Library (Optional Menu):** Choice of 7-Zip, WinRAR, or Skip
 * **Normal Profile:** Adobe Acrobat Reader, 7-Zip Utility, Google Drive Desktop
-* **Gaming Profile:** All Normal Profile tools + Valve Steam, MSI Afterburner
+* **Gaming Profile:** All Normal Profile tools + Valve Steam, MSI Afterburner, Nexus Mod Manager
 
 ## How to Use
 
